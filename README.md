@@ -1,5 +1,5 @@
 1. siapkan file baca.txt dan isi pesan blast.
-2. siapkan file number.txt berisi nomor tujuan blast. contoh 6281355669152
+2. siapkan file number.txt berisi nomor tujuan blast. contoh 6281366559152
 3. jalankan cmd dan ketik "node pa.js"
 4. install dulu whatsapp web di cmd jika belum ada ketik "npm install whatsapp-web.js" dan ulangi kembali langkah nomor 3.
 5. kadang akan diminta install juga qrcode-terminal ketik npm install qrcode-terminal untuk mulai menginstall.
