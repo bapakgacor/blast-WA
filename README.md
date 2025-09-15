@@ -9,3 +9,11 @@
 
 
 NB: buka dulu file pa.js di vscode untuk setel jeda pesan
+
+<---!!!!--->
+jika minta update gunakan
+node update
+npm update puppeteer
+npm update whatsapp-web.js
+npm audit fix
+npm audit fix —force
